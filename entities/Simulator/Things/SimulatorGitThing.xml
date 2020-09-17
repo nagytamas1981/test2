@@ -15,7 +15,7 @@
          enabled="true"
          homeMashup=""
          identifier=""
-         lastModifiedDate="2020-09-17T12:48:56.072Z"
+         lastModifiedDate="2020-09-17T14:39:09.683Z"
          name="SimulatorGitThing"
          projectName="Simulator"
          published="false"
@@ -122,7 +122,7 @@
                             </FileRepository>
                             <GitRepoURL>
                             <![CDATA[
-                            https://github.com/nagytamas1981/TWXDevOpsTRN.git
+                            https://github.com/nagytamas1981/test2.git
                             ]]>
                             </GitRepoURL>
                             <Password></Password>
